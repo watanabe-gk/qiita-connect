@@ -1,5 +1,18 @@
-# Docker Composeの`stdin_open`と`tty`の違いを徹底検証してみた
-
+---
+title: Docker Composeのstdin_openとttyの違いを徹底検証してみた
+tags:
+  - Docker
+  - docker-compose
+  - Haskell
+  - コンテナ
+  - 検証
+private: false
+updated_at: ''
+id: null
+organization_url_name: null
+slide: false
+ignorePublish: false
+---
 ## はじめに
 
 Docker Composeで開発環境を構築する際、`stdin_open`と`tty`という2つの設定項目を目にすることがあります。
