@@ -1,14 +1,14 @@
 ---
 title: Docker Composeのstdin_openとttyの違いを徹底検証してみた
 tags:
-  - Docker
-  - docker-compose
   - Haskell
-  - コンテナ
+  - Docker
   - 検証
+  - container
+  - docker-compose
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-24T21:33:13+09:00'
+id: d9969fdd126313c9d16f
 organization_url_name: null
 slide: false
 ignorePublish: false
